@@ -8,3 +8,4 @@ storm-web/data/storm.db-shm
 storm-web/targets/*/
 !storm-web/targets/.gitkeep
 storm-web/log/notifications-state.json
+.env
